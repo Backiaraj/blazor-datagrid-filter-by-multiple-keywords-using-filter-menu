@@ -28,9 +28,8 @@ The filtering is performed using the Blazor DataGrid's `FilterByColumnAsync` met
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SyncfusionExamples/blazor-datagrid-filter-by-multiple-keywords-using-filter-menu.git
 cd blazor-datagrid-filter-by-multiple-keywords-using-filter-menu
-cd FilterMenu
 ```
 
 ### Run with Visual Studio
